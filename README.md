@@ -1,6 +1,6 @@
 # Hi Guys, My name is Gab
 
-🏫BSCS Student at the University of San Carlos (USC)
+🏫BSCS Student at the University of San Carlos (USC)</br>
 👨‍💻Aspiring Cybersecurity Specialist
 
 
